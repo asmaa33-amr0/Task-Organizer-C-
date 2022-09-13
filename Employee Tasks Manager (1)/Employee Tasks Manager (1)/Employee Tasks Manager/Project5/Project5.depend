@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1650294347 source:d:\project5\project5\task.cpp
+	"Task.h"
+	<string>
+	<iostream>
+
+1650760101 d:\project5\project5\task.h
+	<string>
+
